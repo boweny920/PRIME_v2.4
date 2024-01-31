@@ -1,0 +1,57 @@
+readLength,readType,laneId,libID,genomeVersion,speciesName,sampleName,sampleType,orderType,orderID,orderStatus,analysisGoals,requestingDepartment,prnOrderNo,requester,indexTypeID,indexType,indexes,locOfCustBarcode,resultPaths,collaborationProjects,experimentalVariables
+AVITI-10x-28*10*10*90,Paired Reads,1,L63060,hg38,Homo sapiens | human (hg38),Pool_1,Cells,10x_RNA_Flex_v1,320157,SEQUENCING,"DE genes in the two lines
+identifying Ab42 overexpressing cells
+
+S62457, BC001, L63060, Pool_1
+S62458, BC002, L63060, Pool_1
+S62459, BC003, L63060, Pool_1
+S62460, BC004, L63060, Pool_1
+
+S62461, BC001, L63061, Pool_2
+S62462, BC002, L63061, Pool_2
+S62463, BC003, L63061, Pool_2
+S62464, BC004, L63061, Pool_2
+
+",Yu Lab,MOLNG-3721,jle,16097,10x_Dual_TS_SetA_RNA_Flex_,"[{'label': 'SI-TS-C9', 'sequence': 'TGCTTAACGT'}, {'label': 'SI-TS-C9', 'sequence': 'TACACCCACA'}]",10X Dual Indexing,/n/analysis/Yu/jle/MOLNG-3721/2306080007/,"[{'name': ""Alzheimer's"", 'prnProjectId': 'SCI-004191-AD2596'}]",[]
+AVITI-10x-28*10*10*90,Paired Reads,1,L63061,hg38,Homo sapiens | human (hg38),Pool_2,Cells,10x_RNA_Flex_v1,320157,SEQUENCING,"DE genes in the two lines
+identifying Ab42 overexpressing cells
+
+S62457, BC001, L63060, Pool_1
+S62458, BC002, L63060, Pool_1
+S62459, BC003, L63060, Pool_1
+S62460, BC004, L63060, Pool_1
+
+S62461, BC001, L63061, Pool_2
+S62462, BC002, L63061, Pool_2
+S62463, BC003, L63061, Pool_2
+S62464, BC004, L63061, Pool_2
+
+",Yu Lab,MOLNG-3721,jle,16097,10x_Dual_TS_SetA_RNA_Flex_,"[{'label': 'SI-TS-D5', 'sequence': 'ACACAGACAA'}, {'label': 'SI-TS-D5', 'sequence': 'AGACGCGCTA'}]",10X Dual Indexing,/n/analysis/Yu/jle/MOLNG-3721/2306080007/,"[{'name': ""Alzheimer's"", 'prnProjectId': 'SCI-004191-AD2596'}]",[]
+AVITI-10x-28*10*10*90,Paired Reads,2,L63060,hg38,Homo sapiens | human (hg38),Pool_1,Cells,10x_RNA_Flex_v1,320157,SEQUENCING,"DE genes in the two lines
+identifying Ab42 overexpressing cells
+
+S62457, BC001, L63060, Pool_1
+S62458, BC002, L63060, Pool_1
+S62459, BC003, L63060, Pool_1
+S62460, BC004, L63060, Pool_1
+
+S62461, BC001, L63061, Pool_2
+S62462, BC002, L63061, Pool_2
+S62463, BC003, L63061, Pool_2
+S62464, BC004, L63061, Pool_2
+
+",Yu Lab,MOLNG-3721,jle,16097,10x_Dual_TS_SetA_RNA_Flex_,"[{'label': 'SI-TS-C9', 'sequence': 'TGCTTAACGT'}, {'label': 'SI-TS-C9', 'sequence': 'TACACCCACA'}]",10X Dual Indexing,/n/analysis/Yu/jle/MOLNG-3721/2306080007/,"[{'name': ""Alzheimer's"", 'prnProjectId': 'SCI-004191-AD2596'}]",[]
+AVITI-10x-28*10*10*90,Paired Reads,2,L63061,hg38,Homo sapiens | human (hg38),Pool_2,Cells,10x_RNA_Flex_v1,320157,SEQUENCING,"DE genes in the two lines
+identifying Ab42 overexpressing cells
+
+S62457, BC001, L63060, Pool_1
+S62458, BC002, L63060, Pool_1
+S62459, BC003, L63060, Pool_1
+S62460, BC004, L63060, Pool_1
+
+S62461, BC001, L63061, Pool_2
+S62462, BC002, L63061, Pool_2
+S62463, BC003, L63061, Pool_2
+S62464, BC004, L63061, Pool_2
+
+",Yu Lab,MOLNG-3721,jle,16097,10x_Dual_TS_SetA_RNA_Flex_,"[{'label': 'SI-TS-D5', 'sequence': 'ACACAGACAA'}, {'label': 'SI-TS-D5', 'sequence': 'AGACGCGCTA'}]",10X Dual Indexing,/n/analysis/Yu/jle/MOLNG-3721/2306080007/,"[{'name': ""Alzheimer's"", 'prnProjectId': 'SCI-004191-AD2596'}]",[]

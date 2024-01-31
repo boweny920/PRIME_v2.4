@@ -1,0 +1,39 @@
+custom_logo: "/n/ngs/tools/primary_smk/config/images/simr_primary_cmyk_w_bkgd.png"
+
+module_order:
+  # MultiQC general module for catching output from custom scripts
+  - bclconvert:
+      module_tag:
+        - RNA
+        - DNA
+        - methylation
+
+# General statistics setup
+
+table_columns_visible:
+  Samtools:
+    reads_mapped: True
+    non-primary_alignments: False
+    raw_total_sequences: False
+    reads_mapped_percent: False
+  FastQC:
+    avg_sequence_length: True
+
+table_columns_placement:
+  FastQC:
+    total_sequences: 900
+    percent_duplicates: 904
+    percent_gc: 905
+    avg_sequence_length: 906
+  Samtools:
+    reads_mapped: 902
+    error_rate: 907
+  Bowtie 2 / HiSAT2:
+    overall_alignment_rate: 901
+
+# Show percentages in plots instead of counts
+custom_plot_config:
+  bowtie2_se_plot:
+    cpswitch_c_active: False
+  fastqc_sequence_counts_plot:
+    cpswitch_c_active: False

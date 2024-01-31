@@ -1,0 +1,7 @@
+Output,Order,OrderType,SampleName,LibraryID,IndexSequences,Read,Species,Reference,Lab,TotalReads,AlignPercent,Type,ReadLength
+L62541_S1_L001_R2_001,MOLNG-3730,DNA-seq NEB,1_y3116,L62541,GTACACCT-TCCTCATG,2,Saccharomycodes_ludwigii,sacLud,Halfmann Lab,52624484,89.34,Paired Reads,G4-150
+L62541_S1_L001_R1_001,MOLNG-3730,DNA-seq NEB,1_y3116,L62541,GTACACCT-TCCTCATG,1,Saccharomycodes_ludwigii,sacLud,Halfmann Lab,52624484,85.41,Paired Reads,G4-150
+L62542_S2_L002_R2_001,MOLNG-3730,DNA-seq NEB,2_y3143_P1,L62542,GAACGGTT-GGAGGAAT,2,Saccharomycodes_ludwigii,sacLud,Halfmann Lab,65398146,88.03,Paired Reads,G4-150
+L62542_S2_L002_R1_001,MOLNG-3730,DNA-seq NEB,2_y3143_P1,L62542,GAACGGTT-GGAGGAAT,1,Saccharomycodes_ludwigii,sacLud,Halfmann Lab,65398146,83.02,Paired Reads,G4-150
+L62543_S3_L003_R1_001,MOLNG-3730,DNA-seq NEB,3_y3143_P5,L62543,CCAGTTGA-GACGTCAT,1,Saccharomycodes_ludwigii,sacLud,Halfmann Lab,54555445,85.69,Paired Reads,G4-150
+L62543_S3_L003_R2_001,MOLNG-3730,DNA-seq NEB,3_y3143_P5,L62543,CCAGTTGA-GACGTCAT,2,Saccharomycodes_ludwigii,sacLud,Halfmann Lab,54555445,89.6,Paired Reads,G4-150

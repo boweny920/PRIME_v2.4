@@ -1,0 +1,15 @@
+[gene-expression]
+reference,/n/analysis/indexes/hg38/annotation/Ens_98/10x/cellranger-6.0.1/,,,,,
+probe-set,/n/core/Bioinformatics/analysis/CompBio/boweny/nf-Pipeline/nextflow-GenomeIndex_Ver_4/bin/external/tenx_feature_references/targeted_panels/Chromium_Human_Transcriptome_Probe_Set_v1.0.1_GRCh38-2020-A.csv,,,,,
+,,,,,,
+[libraries]
+fastq_id,fastqs,lanes,feature_types,subsample_rate
+L63060,/n/ngs/data/Aviti/AV230402/20230803_AV230402_2306080007/base2fastq_outs/Samples/L63060/,,Gene Expression,
+,,,,,,
+[samples]
+sample_id,probe_barcode_ids,description,expect_cells,force_cells
+S62457,BC001,L63060,
+S62458,BC002,L63060,
+S62459,BC003,L63060,
+S62460,BC004,L63060,
+,,,,,,
